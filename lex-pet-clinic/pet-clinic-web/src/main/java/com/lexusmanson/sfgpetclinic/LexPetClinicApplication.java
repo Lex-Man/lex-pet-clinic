@@ -1,4 +1,4 @@
-package com.lexusmanson.petclinic.lexpetclinic;
+package com.lexusmanson.sfgpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

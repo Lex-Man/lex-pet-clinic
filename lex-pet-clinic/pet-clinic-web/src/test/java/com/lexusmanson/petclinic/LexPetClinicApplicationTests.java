@@ -1,4 +1,4 @@
-package com.lexusmanson.petclinic.lexpetclinic;
+package com.lexusmanson.petclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
